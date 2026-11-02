@@ -1,0 +1,13 @@
+{
+    "dataset": "Diabetes 130-US Hospitals",
+    "source": "UCI Machine Learning Repository",
+    "dataset_id": 296,
+    "source_url": "https://archive.ics.uci.edu/dataset/296/diabetes+130-us-hospitals+for-years+1999-2008",
+    "target": "readmitted",
+    "positive_class": "<30",
+    "negative_classes": [
+        "NO",
+        ">30"
+    ],
+    "attribution": "Clore et al. (2014), DOI: 10.24432/C5230J"
+}
